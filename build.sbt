@@ -1,5 +1,7 @@
 enablePlugins(ScalaJSPlugin)
 
+organization := "com.gardner"
+
 name := "vexflow-scala-js"
 
 version := "0.1-SNAPSHOT"
